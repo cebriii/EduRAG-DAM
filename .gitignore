@@ -1,0 +1,11 @@
+# Archivos de configuración sensible
+.env
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+
+# Base de datos local de vectores (si no quieres subirla aún)
+backend/data/
