@@ -1,0 +1,15 @@
+# Servidor y API
+fastapi
+uvicorn
+python-multipart
+
+# Inteligencia Artificial (Gemini) - SDK nuevo (google-generativeai está deprecado)
+google-genai
+
+# Gestión de archivos y configuración
+python-dotenv
+pypdf
+pydantic-settings
+
+# Base de datos vectorial local (RAG sin depender de la Semantic Retrieval API)
+chromadb

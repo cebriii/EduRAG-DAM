@@ -6,6 +6,18 @@ __pycache__/
 # Entornos virtuales
 venv/
 env/
+.venv/
+backend/.venv/
 
 # Base de datos local de vectores (si no quieres subirla aún)
 backend/data/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# PDFs del dataset (posibles derechos de autor)
+docs/dataset/*.pdf
+docs/dataset/*.PDF
+!docs/dataset/.gitkeep
